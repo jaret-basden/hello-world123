@@ -9,6 +9,8 @@ This is the base Jekyll theme. You can find out more info about customizing your
 
 Edit *7*
 
+*Development* branch edit
+
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
