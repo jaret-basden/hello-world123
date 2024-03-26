@@ -92,6 +92,7 @@ Tyler Technologies creates software solutions for the public sector. Authored en
 University of Washington, College of Engineering (Seattle), Major/Cumulative GPA: 3.6/3.4
 Major: B.S., Technical Communication, Department of Human Centered Design & Engineering
 
+---
 
 ## Certifications
 
