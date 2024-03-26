@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Jaret Basden Resume | Editor"
+title: "Jaret Basden, Resume | Editor"
 ---
 
 ## Contact
@@ -21,7 +21,7 @@ title: "Jaret Basden Resume | Editor"
 
 ---
 
-## Summary
+## Technical Skills
 
 Git, Markdown, HTML, GitHub, AccuRev, CSS, JavaScript, JSON, XML, DITA, IXIASOFT, MadCap Flare, Adobe RoboHelp, TFS, Jira, Trello, Slack, Microsoft Teams, Word, Visio, and Excel
 
@@ -30,7 +30,9 @@ Git, Markdown, HTML, GitHub, AccuRev, CSS, JavaScript, JSON, XML, DITA, IXIASOFT
 ## Experience
 
 ### Technical Writer (Contractor) @ Microsoft
+
 **Designit**
+
 **07/2022 – 12/2023, Seattle, WA**
 
 Worked remotely on Azure Monitor documentation in a docs-as-code environment. Azure Monitor collects and acts on telemetry data from the cloud and hybrid cloud.
