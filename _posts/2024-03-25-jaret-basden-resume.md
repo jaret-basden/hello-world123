@@ -1,8 +1,5 @@
 ---
-layout: post
-title:  "Jaret Basden | Resume"
-date:   2024-03-26 22:52:17 -0700
-categories: jekyll update
+layout: "post"
 ---
 
 # Jaret Basden | Editor
