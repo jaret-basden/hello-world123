@@ -5,11 +5,11 @@ title: "Jaret Basden, Resume | Editor"
 
 ## Contact
 
-- **Address:** Seattle, WA 98102
-- **Phone:** (555) 555-5555
-- **Email:** Jaret.basden@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/jaretbasden/
-- **Portfolio:** https://jaretbasden.com/
+- Seattle, WA 98102
+- (555) 555-5555
+- jaret.basden@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/jaretbasden/)
+- [Portfolio](https://jaretbasden.com/)
 
 ---
 
@@ -42,7 +42,9 @@ Worked remotely on Azure Monitor documentation in a docs-as-code environment. Az
 - Worked from Microsoft style guides.
 
 ### Technical Writer (Contractor) @ ADP
+
 **Matlen Silver**
+
 **01/2022 – 06/2022, Seattle, WA**
 
 Worked remotely on a six-month contract for ADP. ADP is a global provider of cloud-based human capital management (HCM) solutions.
@@ -51,7 +53,9 @@ Worked remotely on a six-month contract for ADP. ADP is a global provider of clo
 - Worked from the internal ADP style guide.
 
 ### Technical Editor (Contractor) @ Bluetooth SIG
+
 **Protingent**
+
 **08/2019–12/2021, Kirkland, WA**
 
 Worked on the Tech Pubs group in the Specification Management team in a fast-paced content development cycle of two-week sprints.
@@ -60,7 +64,9 @@ Worked on the Tech Pubs group in the Specification Management team in a fast-pac
 - Worked from the Bluetooth Drafting Guidelines, which provides principles and rules for the drafting, presentation, and structure of Bluetooth specifications and documents.
 
 ### Technical Writer
+
 **Donnelley Financial Solutions**
+
 **06/2016 – 04/2019, Bellevue, WA**
 
 Authored documentation for APIs and ActiveDisclosure. ActiveDisclosure is a SaaS application used by teams to prepare financial documents and submit filings to the U.S. Securities and Exchange Commission (SEC).
@@ -69,7 +75,9 @@ Authored documentation for APIs and ActiveDisclosure. ActiveDisclosure is a SaaS
 - Authored documentation for new SOAP API methods and REST API endpoints.
 
 ### Technical Writer / Information Architect
+
 **Tyler Technologies**
+
 **06/2013 – 01/2016, Renton WA**
 
 Tyler Technologies creates software solutions for the public sector. Authored end-user documentation for 15 modules of Eden ERP software and all modules of CAFR Statement Builder financial reporting software.
